@@ -1,7 +1,7 @@
 # Ex1-Matriz-Java
 Exercício 1 para praticar matrizes em Java.
 
-##QUESTÃO
+## QUESTÃO
 Fazer um programa para ler dois números inteiros M e N, e depois ler
 uma matriz de M linhas por N colunas contendo números inteiros,
 podendo haver repetições. Em seguida, ler um número inteiro X que
